@@ -3,7 +3,7 @@
 Install and setup [**Docker**] (https://www.docker.com/) before you begin 
 go to
 ```
-cd web 
+clone this repo
 run docker-compose up -d
 ```
 Connect via docker-compose
